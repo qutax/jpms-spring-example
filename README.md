@@ -1,5 +1,5 @@
 # JPMS and Spring Example
-This project is an example for the combination of the Java Platform Module System with the Spring Framework.
+This project is an example for the combination of the Java Platform Module System and the Spring Framework.
 
 ## Prerequisites
  * Java 11 JDK
