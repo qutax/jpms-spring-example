@@ -1,5 +1,5 @@
 # JPMS and Spring Example
-This project is an example for the combination of the Java Platform Module System and the Spring Framework.
+This project is test for the combatibility of the Java Platform Module System and the Spring Framework using Spring Boot.
 
 ## Building and Running
 WiP - Currently without using the module system at runtime
